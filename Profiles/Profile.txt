@@ -2,7 +2,7 @@ Name of the Student     :   Baral Pallavi
 Learning Track          :   Developer
 Project Name            :   Build An Employee Travel Approval Application For Corporates - (DEV)
 Trailhead URL           :   https://www.salesforce.com/trailblazer/pallavibaral
-Developer Org Username  :   baralpallavi97@gdctirupati.com
+Developer Org Username  :   baralpallavi97@gdccollege.com
 Developer Org Password  :   Gayatri@1234
 Position                :   Team Leader
 
